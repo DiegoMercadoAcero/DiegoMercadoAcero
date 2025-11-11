@@ -1,15 +1,15 @@
 <h1 align="center">👋 ¡Hola, soy Diego Mercado!</h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Ciencias Computacionales | Apasionado por la tecnología y su complejidad</h3>
+<h3 align="center">💻 Estudiante de Ingeniería en Ciencias Computacionales | Orientado a la innovación mediante el dominio de sistemas complejos</h3>
 
 ---
 
 ### 🌌 Sobre mí
 
-Me apasiona la tecnología y lo compleja, profunda y abstracta que puede llegar a ser.  
-Mi objetivo es adquirir experiencia que me provea las habilidades para **diseñar, optimizar, desarrollar y evaluar** el avance tecnológico.  
+Mi motivación se centra en descifrar los principios fundamentales de la tecnología, explorando su naturaleza abstracta y sus aplicaciones transformadoras.
+Busco integrarme en entornos desafiantes donde pueda contribuir al ciclo completo de desarrollo tecnológico: desde el diseño arquitectónico y la optimización de sistemas hasta la evaluación de su impacto e innovación.
 
-Siempre estoy explorando nuevas herramientas, y **Linux** es uno de mis mundos favoritos. 🐧  
-Creo firmemente que la curiosidad y la práctica constante son el núcleo del aprendizaje en tecnología.
+Mi experimentación con entornos de código abierto y sistemas Unix/Linux constituye un pilar de mi desarrollo profesional. 🐧
+Convencido de que la evolución técnica se sustenta en la experimentación rigurosa y la curiosidad metodológica, mantengo un compromiso activo con el aprendizaje continuo y la actualización tecnológica.
 
 ---
 
